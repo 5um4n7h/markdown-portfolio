@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% include 01-name.md %}
+add-images-links
 
 <br>
 
@@ -12,3 +13,6 @@ layout: default
 
 {% include 03-links.md %}
 
+
+Some Text
+main
