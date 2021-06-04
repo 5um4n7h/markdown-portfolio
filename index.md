@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% include 01-name.md %}
+add-images-links
 
 <br>
 
@@ -12,6 +13,7 @@ layout: default
 
 {% include 03-links.md %}
 
+add-lists-emphasis
 <br>
 
 {% include 04-lists.md %}
@@ -19,3 +21,8 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+
+Some Text
+main
+ main
