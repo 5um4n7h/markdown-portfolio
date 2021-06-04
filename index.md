@@ -13,6 +13,16 @@ add-images-links
 
 {% include 03-links.md %}
 
+add-lists-emphasis
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
+
 
 Some Text
 main
+ main
